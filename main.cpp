@@ -15,5 +15,5 @@ int main( int argv, char** argc)
 
     std::cout << "Count of Output: " << count(echo(argv,argc)) << std::endl;
 
-    return 0;
+    //return 0;
 }
